@@ -34,3 +34,13 @@ htmlcov/
 build/
 dist/
 *.egg-info/
+
+# Node.js dependencies
+node_modules/
+
+# Frontend build artifacts
+frontend/build/
+frontend/node_modules/
+
+# Frontend environment variables
+frontend/.env
