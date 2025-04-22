@@ -1,0 +1,36 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Byte-compiled files
+*.pyc
+
+# Test coverage reports
+htmlcov/
+*.cover
+*.coverage
+.coverage.*
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
